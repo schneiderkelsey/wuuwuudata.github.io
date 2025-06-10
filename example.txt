@@ -1,0 +1,1 @@
+& C:/Users/schne/AppData/Local/Python/pythoncore-3.14-64/python.exe c:/projects/Text_File_Creater/file_creater.py created this file
