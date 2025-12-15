@@ -23,7 +23,7 @@ All files use relative paths for cross-platform compatibility.
 ## Setup Instructions 
 
 1.	Clone the repository:
-2.	git clone https://github.com/your-username/wild-bee-foraging-analysis.git
+2.	git clone https://github.com/schneiderkelsey/wuuwuudata.github.io
 3.	cd wild-bee-foraging-analysis
 
 4.	Create and activate a virtual environment:
