@@ -77,3 +77,8 @@ pip install -r requirements.txt
 •	Exploratory analysis revealed significant differences in pollen load across flower species and bee species, highlighting optimal plant-bee combinations for conservation.
 •	Bee species exhibit distinct flower preferences, and higher visitation frequencies correlate with increased pollen loads.
 •	The constructed relational database enables advanced queries into bee-flower-pollen interactions, supporting ecological research and management decisions.
+
+
+## Additional project information
+
+I had help from an AI source to help me structure my project. I also used Copilot to help me write code when I got stuck. 
