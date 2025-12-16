@@ -8,13 +8,14 @@ This project investigates the relationship between pollen load carried by bees a
 
 .
 ├── data/
-│   ├── pollen_load_data.csv
-│   ├── flower_visitation_data.csv
-├── scripts/
-│   ├── build_database.py
-│   ├── analysis_helpers.py
-│   └── download_data.py
-├── analysis.ipynb
+│   ├── 2015_pollen_load_data.csv
+│   ├── 2013_2015_flower_visitation_data.csv
+├── bee_pollen_data_cleaning.ipynb
+├── flower_visitation_data_cleaning.ipynb
+├── databases_and_sql.ipynb
+├── functions.ipynb
+├── visualizations.ipynb
+├── storytelling_and_notebook_quality.ipynb
 ├── requirements.txt
 ├── README.md
 All files use relative paths for cross-platform compatibility.
@@ -24,7 +25,7 @@ All files use relative paths for cross-platform compatibility.
 
 1.	Clone the repository:
 2.	git clone https://github.com/schneiderkelsey/wuuwuudata.github.io
-3.	cd wild-bee-foraging-analysis
+3.	cd wuuwuudata
 
 4.	Create and activate a virtual environment:
     o	Windows:
@@ -38,11 +39,10 @@ All files use relative paths for cross-platform compatibility.
 
 7.	Run Jupyter Notebook:
 8.	jupyter notebook
-    Open analysis.ipynb and follow the workflow.
+    Open visualizations.ipynb and follow the workflow.
 
 9.	Data/scripts usage:
     o	Data files are in the data/ directory.
-    o	Use scripts/download_data.py to retrieve or refresh source datasets.
 
 
 ## Data Sources 
