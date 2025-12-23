@@ -10,8 +10,7 @@ This project investigates the relationship between pollen load carried by bees a
 ├── data/
 │   ├── 2015_pollen_load_data.csv
 │   ├── 2013_2015_flower_visitation_data.csv
-├── bee_pollen_data_cleaning.ipynb
-├── flower_visitation_data_cleaning.ipynb
+├── bee_pollen_and_flower_visitation_data_cleaning.ipynb
 ├── databases_and_sql.ipynb
 ├── functions.ipynb
 ├── visualizations.ipynb
