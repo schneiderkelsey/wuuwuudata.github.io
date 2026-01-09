@@ -12,9 +12,7 @@ This project investigates the relationship between pollen load carried by bees a
 │   ├── 2013_2015_flower_visitation_data.csv
 ├── bee_pollen_and_flower_visitation_data_cleaning.ipynb
 ├── databases_and_sql.ipynb
-├── functions.ipynb
 ├── visualizations.ipynb
-├── storytelling_and_notebook_quality.ipynb
 ├── requirements.txt
 ├── README.md
 All files use relative paths for cross-platform compatibility.
@@ -23,7 +21,7 @@ All files use relative paths for cross-platform compatibility.
 ## Setup Instructions 
 
 1.	Clone the repository:
-2.	git clone https://github.com/schneiderkelsey/wuuwuudata.github.io
+2.	git clone https://github.com/schneiderkelsey/wuuwuudata
 3.	cd wuuwuudata
 
 4.	Create and activate a virtual environment:
