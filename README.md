@@ -78,4 +78,4 @@ pip install -r requirements.txt
 
 ## Additional project information
 
-I had help from an AI source to help me structure my project. I also used Copilot to help me write code when I got stuck. 
+I had help from an AI source (Strider) to help me structure my project. I also used Copilot to help me write code when I got stuck. 
