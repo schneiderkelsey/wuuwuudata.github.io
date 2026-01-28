@@ -10,9 +10,7 @@ This project investigates the relationship between pollen load carried by bees a
 ├── data/
 │   ├── 2015_pollen_load_data.csv
 │   ├── 2013_2015_flower_visitation_data.csv
-├── bee_pollen_and_flower_visitation_data_cleaning.ipynb
-├── databases_and_sql.ipynb
-├── visualizations.ipynb
+├── bee_pollen_and_flower_visitation.ipynb
 ├── requirements.txt
 ├── README.md
 All files use relative paths for cross-platform compatibility.
@@ -21,8 +19,11 @@ All files use relative paths for cross-platform compatibility.
 ## Setup Instructions 
 
 1.	Clone the repository:
-2.	git clone https://github.com/schneiderkelsey/wuuwuudata
-3.	cd wuuwuudata
+    https://github.com/schneiderkelsey/wuuwuudata
+2. Install the required python packages:
+    pip install -r requirements.txt
+3. Open 'bee_pollen_and_flower_visitation.ipynb' in Jupyter Notebook or JupyterLab. 
+
 
 4.	Create and activate a virtual environment:
     o	Windows:
@@ -31,14 +32,8 @@ All files use relative paths for cross-platform compatibility.
     o	Mac/Linux:
     o	python3 -m venv venv
     o	source venv/bin/activate
-5.	Install dependencies:
-6.	pip install -r requirements.txt
 
-7.	Run Jupyter Notebook:
-8.	jupyter notebook
-    Open visualizations.ipynb and follow the workflow.
-
-9.	Data/scripts usage:
+5.	Data/scripts usage:
     o	Data files are in the data/ directory.
 
 
@@ -64,10 +59,6 @@ seaborn
 sqlite3
 jupyter
 
-Install all dependencies with:
-pip install -r requirements.txt
-
-
 ## Key Findings 
 
 •	Data cleaning ensured accurate integration and analysis by addressing missing values, duplicates, and type inconsistencies.
@@ -78,4 +69,4 @@ pip install -r requirements.txt
 
 ## Additional project information
 
-I had help from an AI source (Strider) to help me structure my project. I also used Copilot to help me write code when I got stuck. 
+I had help from an AI source (Strider) to help me structure my project. I also used Copilot to help me write code when I got stuck. My data was already pretty clean, so I spent a lot of time inspecting the data. 
